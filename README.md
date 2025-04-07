@@ -1,4 +1,5 @@
-📊 AtliQ Hardware – Sales & Finance Performance Analysis
+# 📊 AtliQ Hardware – Sales & Finance Performance Analysis
+
 This project delivers an in-depth analysis of **AtliQ Hardware’s** performance across **sales, markets, products, and financials**, built entirely using **Excel**, leveraging Power Query, Power Pivot, and DAX. The project focuses on uncovering actionable insights and trends across three fiscal years (2019–2021) to support strategic decision-making.
 
 ## 🤝 Soft Skills Applied
