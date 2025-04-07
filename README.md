@@ -1,3 +1,4 @@
+📊 AtliQ Hardware – Sales & Finance Performance Analysis
 This project delivers an in-depth analysis of **AtliQ Hardware’s** performance across **sales, markets, products, and financials**, built entirely using **Excel**, leveraging Power Query, Power Pivot, and DAX. The project focuses on uncovering actionable insights and trends across three fiscal years (2019–2021) to support strategic decision-making.
 
 ## 🤝 Soft Skills Applied
@@ -25,7 +26,7 @@ This project delivers an in-depth analysis of **AtliQ Hardware’s** performance
 ![Screenshot 2025-04-08 040613](https://github.com/user-attachments/assets/ee18ec4e-5f26-4162-a940-d00d3901ecf8)
 
 
-## 🚧 Report Developed
+# 🚧 Report Developed
 
 In this project, I built **seven comprehensive reports** that analyze various business dimensions from both **sales** and **finance** perspectives:
 
@@ -36,7 +37,7 @@ In this project, I built **seven comprehensive reports** that analyze various bu
 - Tracks **customer-level sales performance** across three years.
 - Highlights **top contributors**, **growth trajectories**, and **potential high-value customers**.
 - Focused on platforms like **Amazon, Flipkart**, and growing partners like **Nova and Chiptec**.
-
+  
 ### **Market Performance vs Target**
 
 - Compares **actual net sales vs 2021 targets** across global markets.
@@ -53,7 +54,7 @@ In this project, I built **seven comprehensive reports** that analyze various bu
 
 # **Finance Reports**
 
-## **P&L Monthly Report**
+### **P&L Monthly Report**
 
 - Monthly breakdown of:
     - **Net Sales**
