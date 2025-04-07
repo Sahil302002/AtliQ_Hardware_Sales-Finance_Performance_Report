@@ -10,7 +10,7 @@ This project delivers a comprehensive Excel-based analytical solution designed f
 
 ### 🎯 **Project Objectives**
 
-1. Create a 
+1. Create a <a href = "https://github.com/Sahil302002/AtliQ_Hardware_Sales-Finance_Performance_Report/blob/main/Customer%20NetSales%20Performance.pdf">Customer NetSales Performance Report</a>
 2. Conduct a comprehensive **comparison between market performance and sales targets**
 
 ### 🎯 **Purpose of Sales Analytics**
@@ -41,7 +41,7 @@ This project delivers a comprehensive Excel-based analytical solution designed f
     - [**Fiscal Year**](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
     - [**Months**](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)
 2. Develop a **Market-Wise P&L** report:
-    - [**By Markets**](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+    - [**By Markets**]()
 
 ### 🎯 **Purpose of Finance Analytics**
 
